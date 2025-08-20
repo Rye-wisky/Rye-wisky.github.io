@@ -1,12 +1,12 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Rye-wisky)
+[![rye-wisky](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Rye-wisky)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm currently pursuing a Master's degree at the School of Software and Microelectronics, Peking University.
 
 #### Contact
 
-Email: 2501210309[at]stu.pku.edu.cn
+Email: haoyangliu25@stu.pku.edu.cn
 
 #### Education
 M.E., Artificial Intelligence, Peking University, 2025—.\
