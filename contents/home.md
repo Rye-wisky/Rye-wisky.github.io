@@ -1,6 +1,6 @@
 
 
-[![rye-wisky](https://img.shields.io/badge/rye-wisky-github-blue?logo=github)](https://github.com/Rye-wisky)
+[![rye-wisky](https://img.shields.io/badge/rye--wisky-github-blue?logo=github)](https://github.com/Rye-wisky)
 
 I'm currently pursuing a Master's degree at the School of Software and Microelectronics, Peking University.
 
