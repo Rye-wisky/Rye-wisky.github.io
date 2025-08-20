@@ -1,6 +1,6 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Yiyi Wang</strong>, ZhangJian'an, Hongyi Duan, Haoyang Liu, and Qingyang Li. Rethinking Selectivity in State Space Models: A Minimal Predictive Sufficiency Approach. [[PDF]](https://openreview.net/pdf?id=69ePWM3FKp)
 
 #### Published
 
